@@ -1,2 +1,2 @@
 unreleased
- - Project bootstrap (@leonardo.borges)
+ - Project bootstrap (@leonardo.borges/ @josofm)
