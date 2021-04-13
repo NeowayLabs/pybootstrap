@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 setup(
-    name = "pystorage",
+    name = "project-name-here",
     version = "latest",
     description = ("your project description here"),
     packages=find_packages(),
