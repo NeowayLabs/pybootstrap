@@ -1,0 +1,4 @@
+project:
+  image: project-name:latest
+  volumes:
+   - .:/app
